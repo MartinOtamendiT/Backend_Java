@@ -83,7 +83,7 @@ public class Wizard {
                 "Godric's Hollow, West Country, England, Great Britain", "Stag",
                 "Dementor");
         wizards[4]= new Wizard("Tom Marvolo Riddle","Slytherin","Male",
-                "Wool's Orphanage, London, England, Great Britain", "Unknown",
+                "London, England, Great Britain", "Unknown",
                 "His own corpse");
 
         //Print Wizards
